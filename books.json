@@ -1,0 +1,765 @@
+[
+  {
+    "title": "Autismo e Família: Uma Pequena Grande História de Amor",
+    "author": "Maria Stela de Figueiredo Avelar",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/autism/autismo-e-familia-uma-pequena-grande-historia-de-amor-by-maria-stela-de-figueiredo-avelar.pdf"
+  },
+  {
+    "title": "Autismo: A Cada Um o Seu Genoma",
+    "author": "François Ansermet e Ariane Giacobino",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/autism/autismo-a-cada-um-o-seu-genoma-by-francois-ansermet-e-ariane-giacobino.pdf"
+  },
+  {
+    "title": "Brilhante- a Inspiradora História de uma Mãe e Seu Filho Gênio e Autista",
+    "author": "Kristine Barnett",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/autism/brilhante-a-inspiradora-historia-de-uma-mae-e-seu-filho-genio-e-autista-kristine-barnett.pdf"
+  },
+  {
+    "title": "Comunicação Alternativa no TEA (Autismo)",
+    "author": "Fabio Coelho",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/autism/comunicacao-alternativa-no-tea-autismo-by-fabio-coelho.pdf"
+  },
+  {
+    "title": "Mundo Singular: Entenda o Autismo",
+    "author": "Ana Beatriz Barbosa Silva, Mayra Bonifácio Gaiato e Leandro Thadeu Reveles",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/autism/mundo-singular-entenda-o-autismo-by-ana-beatriz-barbosa-silva-mayra-bonifacio-gaiato-leandro-thadeu-reveles.pdf"
+  },
+  {
+    "title": "Olhando nos Olhos: Autismo — Me Ame Como Sou",
+    "author": "Kenya Diehl",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/autism/olhando-nos-olhos-autismo-me-ame-como-sou-by-kenya-diehl.pdf"
+  },
+  {
+    "title": "Quem Diria que Viver Ia Dar Nisso",
+    "author": "Martha Medeiros",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/autism/quem-diria-que-viver-ia-dar-nisso-by-martha-medeiros.pdf"
+  },
+  {
+    "title": "Infrared #1",
+    "author": "Zakary Zaghloul",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/comics/infrared-01-digital-2026.pdf"
+  },
+  {
+    "title": "A Arte da Guerra",
+    "author": "Sun Tzu",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/personal-development/a-arte-da-guerra-original-sun-tzu.pdf"
+  },
+  {
+    "title": "Ansiedade – Como Enfrentar o Mal do Século",
+    "author": "Augusto Cury",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/personal-development/ansiedade-como-enfrentar-o-mal-do-seculo-augusto-cury.pdf"
+  },
+  {
+    "title": "O Manual Proibido Comprimido",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/personal-development/o-manual-proibido-comprimido.pdf"
+  },
+  {
+    "title": "Reprograme Seu Cérebro com PNL: Programação Neurolinguística — O Manual",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/personal-development/reprograme-seu-cerebro-com-pnl-programacao-neurolinguistica-o-manual.pdf"
+  },
+  {
+    "title": "As Herdeiras de Duna",
+    "author": "Frank Herbert",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/dune/as-herdeiras-de-duna-frank-herbert.pdf"
+  },
+  {
+    "title": "Duna",
+    "author": "Frank Herbert",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/dune/duna-frank-herbert.pdf"
+  },
+  {
+    "title": "Duna: Livro sem título identificado",
+    "author": "Frank Herbert",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/dune/frank-herbert-frank-herbert.pdf"
+  },
+  {
+    "title": "O Messias de Duna",
+    "author": "Frank Herbert",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/dune/o-messias-de-duna-frank-herbert.pdf"
+  },
+  {
+    "title": "Os Caçadores de Duna",
+    "author": "Brian Herbert",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/dune/os-cacadores-de-duna-brian-herbert.pdf"
+  },
+  {
+    "title": "Os Hereges de Duna",
+    "author": "Frank Herbert",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/dune/os-hereges-de-duna-frank-herbert.pdf"
+  },
+  {
+    "title": "A Autoestrada",
+    "author": "Stephen King",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/a-auto-estrada-stephen-king.pdf"
+  },
+  {
+    "title": "A Torre Negra (A Torre Negra #7)",
+    "author": "Stephen King",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/a-torre-negra-a-torre-negra-7-stephen-king.pdf"
+  },
+  {
+    "title": "Love",
+    "author": "Stephen King",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/love-stephen-king.pdf"
+  },
+  {
+    "title": "Harry Potter e a Pedra Filosofal",
+    "author": "J. K. Rowling",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/harry-potter/harry-potter-e-a-pedra-filosofal-by-j-k-rowling.pdf"
+  },
+  {
+    "title": "Harry Potter e o Cálice de Fogo",
+    "author": "J. K. Rowling",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/harry-potter/harry-potter-e-o-calice-de-fogo-by-j-k-rowling.pdf"
+  },
+  {
+    "title": "Mais esperto que o diabo o mistério revelado da liberdade e do sucesso by Napoleon Hill",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/mais-esperto-que-o-diabo-o-misterio-revelado-da-liberdade-e-do-sucesso-by-napoleon-hill-2.pdf"
+  },
+  {
+    "title": "A Esperança",
+    "author": "Suzanne Collins",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/hunger-games/a-esperanca-suzanne-collins.pdf"
+  },
+  {
+    "title": "Em Chamas",
+    "author": "Suzanne Collins",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/hunger-games/em-chamas-suzanne-collins.pdf"
+  },
+  {
+    "title": "Jogos Vorazes",
+    "author": "Suzanne Collins",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/hunger-games/jogos-vorazes-suzanne-collins.pdf"
+  },
+  {
+    "title": "29 Minutos para Falar Bem em Público",
+    "author": "Reinaldo Polito e Rachel Polito",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/29-minutos-para-falar-bem-em-publico-by-reinaldo-polito-e-rachel-polito.pdf"
+  },
+  {
+    "title": "A Arte da Persuasão",
+    "author": "James Borg",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/a-arte-da-persuasao-by-james-borg.pdf"
+  },
+  {
+    "title": "A Psicologia das Emoções: O Fascínio do Rosto Humano",
+    "author": "A. Freitas-Magalhães",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/a-psicologia-das-emocoes-o-fascinio-do-rosto-humano-by-a-freitas-magalhaes.pdf"
+  },
+  {
+    "title": "A Sutil Arte de Ligar o F*da-se",
+    "author": "Mark Manson",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/a-sutil-arte-de-ligar-o-fda-se-by-mark-manson.pdf"
+  },
+  {
+    "title": "As Aventuras de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/as-aventuras-de-sherlock-holmes-edicao-bolso-de-luxo-by-arthur-conan-doyle-maria-luiza-x-de-a-borges.pdf"
+  },
+  {
+    "title": "As Aventuras de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/aventuras-de-sherlock-holmes-by-doyle-arthur-conan.pdf"
+  },
+  {
+    "title": "Como Falar em Público e Encantar as Pessoas",
+    "author": "Dale Carnegie",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/como-falar-em-publico-e-encantar-as-pessoas-by-dale-carnegie.pdf"
+  },
+  {
+    "title": "Foco",
+    "author": "Daniel Goleman",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/foco-by-daniel-goleman.pdf"
+  },
+  {
+    "title": "Inteligência Emocional",
+    "author": "Daniel Goleman",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/inteligencia-emocional-by-daniel-goleman.pdf"
+  },
+  {
+    "title": "Mais Esperto que o Diabo: O Mistério Revelado da Liberdade e do Sucesso",
+    "author": "Napoleon Hill",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/mais-esperto-que-o-diabo-o-misterio-revelado-da-liberdade-e-do-sucesso-by-napoleon-hill.pdf"
+  },
+  {
+    "title": "Manual de Persuasão do FBI",
+    "author": "Jack Schafer",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/manual-de-persuasao-do-fbi-by-jack-shafer.pdf"
+  },
+  {
+    "title": "O Poder do Hábito: Por que Fazemos o que Fazemos na Vida e nos Negócios",
+    "author": "Charles Duhigg",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/o-poder-do-habito-por-que-fazemos-o-que-fazemos-na-vida-e-nos-negocios-by-charles-duhigg.pdf"
+  },
+  {
+    "title": "Pai Rico, Pai Pobre",
+    "author": "Robert T. Kiyosaki",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books/pai-rico-pai-pobre-by-robert-t-kiyosaki.pdf"
+  },
+  {
+    "title": "12 Regras para a Vida: Um Antídoto para o Caos",
+    "author": "Jordan B. Peterson",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/personal-development/12-regras-para-a-vida-um-antidoto-para-o-caos-by-jordan-b-peterson.pdf"
+  },
+  {
+    "title": "A Barraca do Beijo",
+    "author": "Beth Reekles",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/a-barraca-do-beijo-beth-reekles.pdf"
+  },
+  {
+    "title": "A Bíblia do Intestino",
+    "author": "Dra Karina Bianca Sinforoso",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/a-biblia-do-intestino-dra-karina-bianca-sinforoso.pdf"
+  },
+  {
+    "title": "A Guerra dos Tronos e a Filosofia",
+    "author": "William Irwin",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/a-guerra-dos-tronos-e-a-filosofia-william-irwin.pdf"
+  },
+  {
+    "title": "A História da Filosofia para Quem Tem Pressa",
+    "author": "Lesley Levene",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/a-historia-da-filosofia-para-quem-tem-pressa-lesley-levene.pdf"
+  },
+  {
+    "title": "A Hora do Vampiro",
+    "author": "Stephen King",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/a-hora-do-vampiro-stephen-king.pdf"
+  },
+  {
+    "title": "A Teoria da Dependência- 50 Anos Depois",
+    "author": "Claudio Katz",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/a-teoria-da-dependencia-50-anos-depois-claudio-katz.pdf"
+  },
+  {
+    "title": "As 48 Leis do Poder",
+    "author": "Robert Greene",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/as-48-leis-do-poder-robert-greene.pdf"
+  },
+  {
+    "title": "Ascensão do Império",
+    "author": "Michael J. Sullivan",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/ascensao-do-imperio-michael-j-sullivan.pdf"
+  },
+  {
+    "title": "Até o Fim do Tempo",
+    "author": "Brian Greene",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/ate-o-fim-do-tempo-brian-greene.pdf"
+  },
+  {
+    "title": "Box Hora do Espanto",
+    "author": "Série I - Edgar J. Hyde",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/box-hora-do-espanto-serie-i-edgar-j-hyde.pdf"
+  },
+  {
+    "title": "Box Hora do Espanto",
+    "author": "Série Ii - Edgar J. Hyde",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/box-hora-do-espanto-serie-ii-edgar-j-hyde.pdf"
+  },
+  {
+    "title": "Box Hora do Espanto",
+    "author": "Série Iii - Edgar J. Hyde",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/box-hora-do-espanto-serie-iii-edgar-j-hyde.pdf"
+  },
+  {
+    "title": "Boy Erased- uma Verdade Anulada",
+    "author": "Garrard Conley",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/boy-erased-uma-verdade-anulada-garrard-conley.pdf"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/technology/clean-code.pdf"
+  },
+  {
+    "title": "Como Fazer Amigos e Influenciar Pessoas",
+    "author": "Dale Carnegie",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/persuasion/como-fazer-amigos-e-influenciar-pessoas-9788504018028.pdf"
+  },
+  {
+    "title": "Crimes Vitorianos Macabros",
+    "author": "Kate Clarke",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/crimes-vitorianos-macabros-kate-clarke.pdf"
+  },
+  {
+    "title": "Despertar Inspirado",
+    "author": "Clóvis de Barros Filho",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/despertar-inspirado-clovis-de-barros-filho.pdf"
+  },
+  {
+    "title": "Diario de John Winchester",
+    "author": "Alex Irvine",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/diario-de-john-winchester-alex-irvine.pdf"
+  },
+  {
+    "title": "Furacão Anitta",
+    "author": "Léo Dias",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/furacao-anitta-leo-dias.pdf"
+  },
+  {
+    "title": "Garota Exemplar",
+    "author": "Gillian Flynn",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/garota-exemplar-gillian-flynn.pdf"
+  },
+  {
+    "title": "Herdeiras do Mar",
+    "author": "Mary Lynn Bracht",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/herdeiras-do-mar-mary-lynn-bracht.pdf"
+  },
+  {
+    "title": "Novamente Juntos",
+    "author": "Vera Lúcia Marinzeck de Carvalho",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/novamente-juntos-vera-lucia-marinzeck-de-carvalho.pdf"
+  },
+  {
+    "title": "Nunca Saia Sozinho",
+    "author": "Charlie Donlea",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/nunca-saia-sozinho-charlie-donlea.pdf"
+  },
+  {
+    "title": "O Desafio",
+    "author": "Harley Laroux",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/o-desafio-harley-laroux.pdf"
+  },
+  {
+    "title": "O Psicopata Americano",
+    "author": "Bret Easton Ellis",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/o-psicopata-americano-bret-easton-ellis.pdf"
+  },
+  {
+    "title": "Os Segredos do Lobo",
+    "author": "Jordan Belfort",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/os-segredos-do-lobo-jordan-belfort.pdf"
+  },
+  {
+    "title": "Ouça o que Eu Digo",
+    "author": "Cesar Bravo",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/ouca-o-que-eu-digo-cesar-bravo.pdf"
+  },
+  {
+    "title": "Persuasão e Influência Usando Padrões de Linguagem",
+    "author": "Steve Allen",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/persuasion/persuasao-e-influencia-usando-padroes-de-linguagem-steve-allen.pdf"
+  },
+  {
+    "title": "Roubo de Espadas",
+    "author": "Michael J. Sullivan",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/roubo-de-espadas-michael-j-sullivan.pdf"
+  },
+  {
+    "title": "Sem Querer Querendo",
+    "author": "Roberto Gómez Bolaños",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/books-varied/sem-querer-querendo-roberto-gomez-bolanos.pdf"
+  },
+  {
+    "title": "Tempo de Perdoar",
+    "author": "John Grisham",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/tempo-de-perdoar-john-grisham.pdf"
+  },
+  {
+    "title": "Um Caminho para a Liberdade",
+    "author": "Jojo Moyes",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/fiction/um-caminho-para-a-liberdade-jojo-moyes.pdf"
+  },
+  {
+    "title": "Você Nasceu para Vender Muito",
+    "author": "Hélio Tatsuo",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/voce-nasceu-para-vender-muito-helio-tatsuo.pdf"
+  },
+  {
+    "title": "Naruto 04",
+    "author": "Masashi Kishimoto",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/manga/naruto-04-masashi-kishimoto.pdf"
+  },
+  {
+    "title": "10 Roteiros para Carrosséis",
+    "author": "Talita Marques",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/10-roteiros-para-carrosseis-talita-marques-3.pdf"
+  },
+  {
+    "title": "3 Truques para Vender Mais",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/3-truque-para-vender-mais.pdf"
+  },
+  {
+    "title": "Os Segredos da Mente Milionária",
+    "author": "T. Harv Eker",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/os-segredos-da-mente-milionaria.pdf"
+  },
+  {
+    "title": "Pai Rico Pai Pobre",
+    "author": "Robert T. Kiyosaki",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/pai-rico-pai-pobre-robert-t-kiyosaki.pdf"
+  },
+  {
+    "title": "Seja foda!",
+    "author": "Caio Carneiro",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/business/seja-foda-caio-carneiro.pdf"
+  },
+  {
+    "title": "As Armas da Persuasão",
+    "author": "Robert B. Cialdini",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/persuasion/as-armas-da-persuasao-robert.pdf"
+  },
+  {
+    "title": "Como Detectar Mentiras e Enganos Através da Linguagem Corporal",
+    "author": "Steve Allen",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/persuasion/como-detectar-mentiras-e-enganos-atraves-da-linguagem-corporal-steve.pdf"
+  },
+  {
+    "title": "Manual de Persuasão do FBI",
+    "author": "Jack Schafer",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/persuasion/manual-de-persuasao-do-fbi.pdf"
+  },
+  {
+    "title": "O Poder da Persuasão",
+    "author": "Robert B. Cialdini",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/persuasion/o-poder-da-persuasao-robert-b-cialdini.pdf"
+  },
+  {
+    "title": "Persuasão e Influência",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/persuasion/persuasao-e-influencia.pdf"
+  },
+  {
+    "title": "A Ficção e o Poema",
+    "author": "Luiz Costa Lima",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/a-ficcao-e-o-poema-luiz-costa-lima.pdf"
+  },
+  {
+    "title": "A Queda de Artur",
+    "author": "J. R. R. Tolkien",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/a-queda-de-artur-j-r-r-tolkien.pdf"
+  },
+  {
+    "title": "A Universidade Desconhecida",
+    "author": "Roberto Bolaño",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/a-universidade-desconhecida-roberto-bolano.pdf"
+  },
+  {
+    "title": "Amor a Céu Aberto",
+    "author": "Flora Figueiredo",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/amor-a-ceu-aberto-flora-figueiredo.pdf"
+  },
+  {
+    "title": "Amores & Arte de Amar",
+    "author": "Ovídio",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/amores-arte-de-amar-ovidio.pdf"
+  },
+  {
+    "title": "Cult Antologia Poética",
+    "author": "Vários Autores",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/cult-antologia-poetica-varios-autores.pdf"
+  },
+  {
+    "title": "Desabafos e Confissões",
+    "author": "Ricardo Garrett",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/desabafos-e-confissoes-ricardo-garrett.pdf"
+  },
+  {
+    "title": "João Cabral de Melo Neto Em 8 Tempos",
+    "author": "João Cabral de Melo Neto",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/joao-cabral-de-melo-neto-em-8-tempos-joao-cabral-de-melo-neto.pdf"
+  },
+  {
+    "title": "Memórias e Perversões de um Sedutor",
+    "author": "Niccolas Grecco",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/memorias-e-perversoes-de-um-sedutor-niccolas-grecco.pdf"
+  },
+  {
+    "title": "Poemas de Outubro",
+    "author": "Renato Castelo de Carvalho",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/poemas-de-outubro-renato-castelo-de-carvalho.pdf"
+  },
+  {
+    "title": "Poesias Pesadas",
+    "author": "Marcio Jung",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/poesias-pesadas-marcio-jung.pdf"
+  },
+  {
+    "title": "Primaveras",
+    "author": "Casimiro de Abreu",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/primaveras-casimiro-de-abreu.pdf"
+  },
+  {
+    "title": "Sentimental",
+    "author": "Eucanaã Ferraz",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/sentimental-eucanaa-ferraz.pdf"
+  },
+  {
+    "title": "Toda Poesia",
+    "author": "Paulo Leminski",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/toda-poesia-paulo-leminski.pdf"
+  },
+  {
+    "title": "Vidas Secas",
+    "author": "Graciliano Ramos",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/poetry/vidas-secas-graciliano-ramos.pdf"
+  },
+  {
+    "title": "Ebook Python",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/technology/ebook-python.pdf"
+  },
+  {
+    "title": "Intro seg redes UNIVAP",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/technology/intro-seg-redes-univap.pdf"
+  },
+  {
+    "title": "Segurança em Redes SP 2011",
+    "author": "Autor desconhecido",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/technology/seguranca-em-redes-sp-2011.pdf"
+  },
+  {
+    "title": "A Ascensao do Governador",
+    "author": "Robert Kirkman",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/walking-dead/a-ascensao-do-governador-robert-kirkman.pdf"
+  },
+  {
+    "title": "A Queda do Governador",
+    "author": "Jay Bonansinga",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/walking-dead/a-queda-do-governador-jay-bonansinga.pdf"
+  },
+  {
+    "title": "A Queda do Governador: Parte Dois",
+    "author": "Robert Kirkman",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/walking-dead/a-queda-do-governador-parte-dois-robert-kirkman.pdf"
+  },
+  {
+    "title": "Busca e Destruição",
+    "author": "Jay Bonansinga",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/walking-dead/busca-e-destruicao-the-walking-dead-vol-7-jay-bonansinga.pdf"
+  },
+  {
+    "title": "Declínio",
+    "author": "Robert Kirkman",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/walking-dead/declinio-robert-kirkman.pdf"
+  },
+  {
+    "title": "Invasão",
+    "author": "Robert Kirkman",
+    "price": "Free",
+    "image": null,
+    "pdf": "https://raw.githubusercontent.com/kauanmezavila/peloponeso-library/main/walking-dead/invasao-robert-kirkman.pdf"
+  }
+]
